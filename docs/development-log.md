@@ -40,3 +40,7 @@ feat: add validation rules for filters
 
 feat: add reporting view for charts
 
+## 2025-09-01 - Stage 11
+
+feat: add export or integration support for settings
+
