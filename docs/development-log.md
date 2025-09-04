@@ -44,3 +44,7 @@ feat: add reporting view for charts
 
 feat: add export or integration support for settings
 
+## 2025-09-04 - Stage 12
+
+refactor: improve service boundaries for responsive layout
+
